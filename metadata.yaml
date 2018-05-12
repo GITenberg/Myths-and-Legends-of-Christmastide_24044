@@ -1,0 +1,25 @@
+_repo: Myths-and-Legends-of-Christmastide_24044
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herrick, Bertha F.
+    gutenberg_agent_id: '26194'
+    url: http://www.gutenberg.org/2009/agents/26194
+description: ''
+gutenberg_issued: '2007-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24044'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas'
+- !lcsh 'Christmas -- History'
+- !lcc 'GT'
+title: Myths and Legends of Christmastide
+url: http://www.gutenberg.org/ebooks/24044
